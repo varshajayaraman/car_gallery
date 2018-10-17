@@ -1,0 +1,45 @@
+<resources>
+
+<string name="app_name">ProjectTwo</string>
+
+<string-array name="astonMartin">
+    <item>Aston Martin Glenview, Waukegan Rd, Glenview, Chicago, IL 60025</item>
+    <item>Napleton Aston Martin, Ogden Avenue, Downers grove, Chicago, IL 60515</item>
+    <item>Aston martin Lake Forest, N Shore Dr, Lake Bluff, Chicago, IL 60044</item>
+</string-array>
+    <string-array name="ferrari">
+        <item>McLaren Chicago Showroom, W Randolph St, Chicago, IL 60072</item>
+        <item>Mancuso Motorsports, N Clark St, Chicago, IL 60612</item>
+        <item>Berman Infiniti, N LaSalle Dr, Chicago, IL 60654</item>
+    </string-array>
+    <string-array name="maserati">
+        <item>McGrath Acura, N Elston, Chicago, IL 60642</item>
+        <item>Driven Auto Sales, W 79th Burbank, Chicago, IL 60459</item>
+        <item>Baha Auto Sales, W North Ave, Chicago, IL 60639</item>
+    </string-array>
+    <string-array name="lambhorgini">
+        <item>Perillo Downers Grove, Ogden Ave, Downers Grove, Chicago, IL 60515</item>
+        <item>Bill Nuccio Motorcars, Racquet Club Dr Addison, Chicago, IL 60101</item>
+        <item>Greater Chicago Motors, N Elston Av, Chicago, IL 60642</item>
+    </string-array>
+    <string-array name="jaguar">
+        <item>Howard Orloff Imports, N Paulina St, Chicago, IL 60622</item>
+        <item>Metro Ford, 6455 S Western Ave, Chicago, IL 60636</item>
+        <item>Kingdom Chevrolet, 6603 S Western Ave, Chicago, IL 60636</item>
+    </string-array>
+    <string-array name="landrover">
+        <item>Land Rover Chicago, 1924 N Paulina St, Chicago, IL 60622</item>
+        <item>Land Rover Orland Park, W 159th Street, Tiney Park, Chicago, IL 60477</item>
+        <item>Land Rover Hindsale, 300 East Ogden Ave, Chicago, IL 60521</item>
+    </string-array>
+    <string-array name="porsche">
+        <item>MidWest Performance Cars, 1358 W Lake St, Chicago, IL 60623</item>
+        <item>Spotlight Automotive, 1474 W Hubbard St, Chicago, IL 60707</item>
+        <item>Willow Automotive Service, 2020 S Wabash Ave, Chicago, IL 60451</item>
+    </string-array>
+    <string-array name="spider">
+        <item>Bettenhausen Automotive, W Randolph St, Chicago, IL 60657</item>
+        <item>New City FIAT, S Michigan Ave, Tiney Park, Chicago, IL 60616</item>
+        <item>The AutoBarn FIAT, 800 N Clark St, Chicago, IL 60521</item>
+    </string-array>
+</resources>

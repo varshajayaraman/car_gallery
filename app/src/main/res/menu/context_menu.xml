@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item
+    android:id="@+id/contextMenuItem1"
+    android:title="View enlarged picture" />
+
+    <item
+        android:id="@+id/contextMenuItem2"
+        android:title="Open link in a new webpage" />
+
+    <item
+        android:id="@+id/contextMenuItem3"
+        android:title="Show car dealers" />
+</menu>
